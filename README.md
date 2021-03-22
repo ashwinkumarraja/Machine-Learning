@@ -3,9 +3,9 @@ From Scratch implemntations of the following Supervised Learning Models.
 Major Libraries - numpy, pandas , matplotlib
 
 - Fisher Discriminant
-    -The Fisher Linear Discriminant Analysis method searches the data set given for directions having the largest inverse sum of variance and then projects the data into it thereby obtaining a lower dimensional form of the data set.
-    -We assume that the projected points follow a normal distribution. We obtain the distributions for either class. Our threshold becomes the intersection of these two distributions which helps us to classify.
-    -For 1D discriminant it is the intersection point of the reduced clusters, we classify the test point either greater and lesser than this threshold and for 3D w is the normal to the plane dividing the positive and negative examples.
+    - The Fisher Linear Discriminant Analysis method searches the data set given for directions having the largest inverse sum of variance and then projects the data into it thereby obtaining a lower dimensional form of the data set.
+    - We assume that the projected points follow a normal distribution. We obtain the distributions for either class. Our threshold becomes the intersection of these two distributions which helps us to classify.
+    - For 1D discriminant it is the intersection point of the reduced clusters, we classify the test point either greater and lesser than this threshold and for 3D w is the normal to the plane dividing the positive and negative examples.
 
 
 - Linear Perceptron
